@@ -2,7 +2,7 @@
 This info is provided by the Wayback Machine, and is not guaranteed to be accurate.
 
 (start of info)
-#Not every smart contract or dApp needs its own token. 
+# Not every smart contract or dApp needs its own token. 
 Interface Tokens provide a transparent mechanism for a decentralized, transferrable, cross-platform blockchain identity. They are universal interface tokens that can be utilized by any project across the Ethereum ecosystem.
 Developers can assign roles, permissions, and privileges to an Interface Token held within an Ethereum address versus assigning those same privileges directly to an Ethereum address.
 
